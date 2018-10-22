@@ -256,7 +256,7 @@ https://books.goalkicker.com/OracleDatabaseBook/
 
 *Make Your Own Neural Network by Tariq Rashid*
 - [Amazon](https://www.amazon.de/Make-Your-Neural-Network-English-ebook/dp/B01EER4Z4G)
-- ISBN-13: 978-1530826605
+- ISBN-10: 1530826608
 
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
