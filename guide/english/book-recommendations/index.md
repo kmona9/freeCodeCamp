@@ -121,7 +121,7 @@ title: Books to Read for Programmers
 *Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke*
 - [Read it online here](https://eloquentjavascript.net)
 - [Amazon Smile](https://smile.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5)
--ISBN-13: 978-1593275846
+- ISBN-13: 978-1593275846
 
 *JavaScript: The Good Parts*
 - [Amazon Smile](https://smile.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
@@ -253,6 +253,10 @@ https://books.goalkicker.com/OracleDatabaseBook/
 *Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp*
 - [Amazon](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
 - ISBN-13: 978-1430243144
+
+*Make Your Own Neural Network by Tariq Rashid*
+- [Amazon](https://www.amazon.de/Make-Your-Neural-Network-English-ebook/dp/B01EER4Z4G)
+- ISBN-13: 978-1530826605
 
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
