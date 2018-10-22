@@ -250,6 +250,10 @@ https://books.goalkicker.com/OracleDatabaseBook/
 - [Amazon](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
 - ISBN-10: 0316380504
 
+*Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp*
+- [Amazon](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+- ISBN-13: 978-1430243144
+
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
 Please feel free to add more that you have found useful!
