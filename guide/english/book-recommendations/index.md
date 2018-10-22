@@ -131,6 +131,10 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/?pldnSite=1)
 - ISBN-13: 978-1118531648 
 
+*Javascript Design Patterns by Addy Osmani*
+- [Amazon](https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815)
+- ISBN-13: 978-1449331818
+
 ## Python
 
 *Automate the Boring Stuff With Python*
