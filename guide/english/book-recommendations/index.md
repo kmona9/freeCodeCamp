@@ -244,7 +244,7 @@ https://books.goalkicker.com/OracleDatabaseBook/
 
 *The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data by Kevin Mitnick and Robert Vamosi* 
 - [Amazon](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
-- ISBN-13: 978-0316380508
+- ISBN-10: 0316380504
 
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
